@@ -1,0 +1,10 @@
+E:\LinqToSQLGiris\LinqToSQLGiris\bin\Debug\LinqToSQLGiris.exe.config
+E:\LinqToSQLGiris\LinqToSQLGiris\bin\Debug\LinqToSQLGiris.exe
+E:\LinqToSQLGiris\LinqToSQLGiris\bin\Debug\LinqToSQLGiris.pdb
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.csprojAssemblyReference.cache
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.Form1.resources
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.Properties.Resources.resources
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.csproj.GenerateResource.cache
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.csproj.CoreCompileInputs.cache
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.exe
+E:\LinqToSQLGiris\LinqToSQLGiris\obj\Debug\LinqToSQLGiris.pdb
